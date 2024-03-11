@@ -1,0 +1,7 @@
+dest
+.env
+node_modules
+agent
+train
+loader
+*.ts
