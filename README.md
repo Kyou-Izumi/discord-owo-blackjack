@@ -35,6 +35,32 @@ npx tsc
 node .
 ```
 
+## .env FILE
+
+On Replit, please configure all the secret values
+
+![Imgur](https://i.imgur.com/U49YjL2.png)
+
+On Windows and other OS platforms, the .env file will look like this:
+```js
+TOKEN=yourtoken.goes.here
+CHANNEL_ID=000000000000000
+BET_AMMOUNT=10000
+```
+
+More information about:
+
+- [How to get discord account token](https://www.geeksforgeeks.org/how-to-get-discord-token/)
+- [How to get discord channel ID](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID)
+
+## Contact
+
+__Patreon:__ [Click here!](https://patreon.com/DiscordOwOSelfbot)
+
+__Email:__ ntt.eternity2k6@gmail.com
+
+__Join our discord Tool Support Server:__ [Join now](https://discord.gg/Yr92g5Zx3e)
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
