@@ -1,6 +1,6 @@
 {
   "name": "owo-blackjack-agent",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "Blackjack Agent - Reinforcement Learning (Deep Q-Network) by BKI Eternityyy",
   "main": "./obfuscated/index.js",
