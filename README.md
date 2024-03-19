@@ -37,11 +37,11 @@ node .
 
 ## .env FILE
 
-On Replit, please configure all the secret values
+#### Replit and other free hosting services are NO LONGER SUPPORTED
 
-![Imgur](https://i.imgur.com/U49YjL2.png)
+Check [the pinned comment](https://www.youtube.com/watch?v=RXo8JyrsN5c&lc=Ugy24xFqh6_y5r2ZqgN4AaABAg) for more information
 
-On Windows and other OS platforms, the .env file will look like this:
+#### On Windows and other OS platforms, the .env file will look like this:
 ```js
 TOKEN=yourtoken.goes.here
 CHANNEL_ID=000000000000000
