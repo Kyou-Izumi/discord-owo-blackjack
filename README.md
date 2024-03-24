@@ -1,6 +1,6 @@
 # REINFORCEMENT LEARNING - Discord OwO Blackjack
 
-A simple DQN Blackjack Agent (over 100M gameplays) (All OS platforms + Replit Supported)
+A simple DQN Blackjack Agent (over 100M gameplays) (All OS platforms)
 
 ## Information
 
@@ -25,13 +25,10 @@ git clone https://github.com/LongAKolangle/discord-owo-selfbot.git
 
 On Windows, simply run the [windows.cmd](https://github.com/LongAKolangle/discord-owo-blackjack/blob/main/windows.cmd)
 
-On Replit, just click the Run button
-
 On other OS platforms, run the following commands:
 
 ```bash
 npm install
-npx tsc
 node .
 ```
 
